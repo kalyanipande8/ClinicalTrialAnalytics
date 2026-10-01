@@ -1,0 +1,2 @@
+mixed_model_treatment_effect,mixed_model_se,mixed_model_ci_lower,mixed_model_ci_upper,mixed_model_pvalue,site_random_effect_variance,residual_variance,naive_ols_treatment_effect,naive_ols_se,n_evaluable,n_sites
+-3.9766560399980393,0.35120061188453344,-4.664996590640154,-3.288315489355924,1.0091906261823848e-29,7.447455014072149,16.24679617828494,-4.455124535749556,0.4120970374721976,535,9
